@@ -1,3 +1,5 @@
+import os
+
 #Reader for Gaussian 09 output file
 ######################## List of Outputs #############################
 list_of_files = []
